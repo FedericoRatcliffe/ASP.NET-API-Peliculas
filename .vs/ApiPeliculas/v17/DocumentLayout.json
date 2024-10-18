@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Master API RESTFUL con ASP.NET Core Web API (.NET 8)\\ApiPeliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02795E09-AC26-4F03-BB49-C7B4E8A2F2D8}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\fratcliffe\\source\\repos\\workspace udemy\\master api restful con asp.net core web api (.net 8)\\apipeliculas\\apipeliculas\\modelos\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02795E09-AC26-4F03-BB49-C7B4E8A2F2D8}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02795E09-AC26-4F03-BB49-C7B4E8A2F2D8}|ApiPeliculas\\ApiPeliculas.csproj|C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Master API RESTFUL con ASP.NET Core Web API (.NET 8)\\ApiPeliculas\\apipeliculas\\modelos\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02795E09-AC26-4F03-BB49-C7B4E8A2F2D8}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02795E09-AC26-4F03-BB49-C7B4E8A2F2D8}|ApiPeliculas\\ApiPeliculas.csproj|C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Master API RESTFUL con ASP.NET Core Web API (.NET 8)\\ApiPeliculas\\apipeliculas\\modelos\\dtos\\peliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02795E09-AC26-4F03-BB49-C7B4E8A2F2D8}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dtos\\peliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 944,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Master API RESTFUL con ASP.NET Core Web API (.NET 8)\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dtos\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dtos\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Master API RESTFUL con ASP.NET Core Web API (.NET 8)\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dtos\\CategoriaDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dtos\\CategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:55:51.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeliculaDto.cs",
+              "DocumentMoniker": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Master API RESTFUL con ASP.NET Core Web API (.NET 8)\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dtos\\PeliculaDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dtos\\PeliculaDto.cs",
+              "ToolTip": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Master API RESTFUL con ASP.NET Core Web API (.NET 8)\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dtos\\PeliculaDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dtos\\PeliculaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:59:41.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Master API RESTFUL con ASP.NET Core Web API (.NET 8)\\ApiPeliculas\\ApiPeliculas\\Modelos\\Pelicula.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\FRATCLIFFE\\source\\repos\\Workspace Udemy\\Master API RESTFUL con ASP.NET Core Web API (.NET 8)\\ApiPeliculas\\ApiPeliculas\\Modelos\\Pelicula.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Pelicula.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:58:35.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
